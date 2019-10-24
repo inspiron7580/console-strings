@@ -6,7 +6,5 @@ public class Main {
         System.out.println(" Redian ");
         System.out.println("!!");
         System.out.println("1");
-        System.out.println("23");
-        System.out.println("456");
     }
 }
